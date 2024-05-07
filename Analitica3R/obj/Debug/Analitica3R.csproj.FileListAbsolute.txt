@@ -1,0 +1,12 @@
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\bin\Debug\Analitica3R.exe.config
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\bin\Debug\Analitica3R.exe
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\bin\Debug\Analitica3R.pdb
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.csproj.AssemblyReference.cache
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.DistanzaTraDuePunti.resources
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.Form1.resources
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.ParallelaPerpendicolare.resources
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.Properties.Resources.resources
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.csproj.GenerateResource.cache
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.csproj.CoreCompileInputs.cache
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.exe
+C:\Users\docente.CATTANEOSTUD\Desktop\InformaticaIacono\3R\Analitica3R\Analitica3R\Analitica3R\obj\Debug\Analitica3R.pdb
